@@ -1,0 +1,173 @@
+report_id,entity_type,entity_value,analytical_relevance,ioc_id,confidence,context,first_seen,published_at,report_age_days,indicator_age_days,report_predates_first_seen,internal_event_ids,internal_actions,internal_event_count
+TRN03002,domain,node-3002-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-11-20,333,,False,,,0
+TRN03002,hash_fragment,048f1289eed704238635,Incomplete hash; cannot establish a full-hash match.,,,,,2025-11-20,333,,False,,,0
+TRN03002,ipv4,198.51.100.143,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-11-20,333,,False,,,0
+TRN03002,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-11-20,333,,False,,,0
+TRN03003,domain,node-3003-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-05-20,152,,False,,,0
+TRN03003,ipv4,198.51.100.144,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-05-20,152,,False,,,0
+TRN03003,malware,DustRAT,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-05-20,152,,False,,,0
+TRN03003,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-05-20,152,,False,,,0
+TRN03004,domain,node-3004-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-06-20,486,,False,,,0
+TRN03004,ipv4,198.51.100.145,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-06-20,486,,False,,,0
+TRN03004,malware,BreakerFox,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-06-20,486,,False,,,0
+TRN03005,domain,node-3005-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-05-17,520,,False,,,0
+TRN03005,ipv4,198.51.100.146,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-05-17,520,,False,,,0
+TRN03005,malware,GridLock,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-05-17,520,,False,,,0
+TRN03007,domain,node-3007-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-07-22,454,,False,,,0
+TRN03007,ipv4,198.51.100.148,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-07-22,454,,False,,,0
+TRN03007,malware,BreakerFox,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-07-22,454,,False,,,0
+TRN03007,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-07-22,454,,False,,,0
+TRN03008,domain,node-3008-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-01-04,288,,False,,,0
+TRN03008,ipv4,198.51.100.149,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-01-04,288,,False,,,0
+TRN03008,malware,GridLock,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-01-04,288,,False,,,0
+TRN03008,threat_actor,Copper Dune,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-01-04,288,,False,,,0
+TRN03010,domain,node-3010-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-04-18,549,,False,,,0
+TRN03010,hash_fragment,ac19d28a5c8f0bc1d3db,Incomplete hash; cannot establish a full-hash match.,,,,,2025-04-18,549,,False,,,0
+TRN03010,ipv4,198.51.100.151,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-04-18,549,,False,,,0
+TRN03010,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-04-18,549,,False,,,0
+TRN03013,domain,node-3013-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-04-19,548,,False,,,0
+TRN03013,ipv4,198.51.100.154,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-04-19,548,,False,,,0
+TRN03013,malware,BreakerFox,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-04-19,548,,False,,,0
+TRN03013,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-04-19,548,,False,,,0
+TRN03017,domain,node-3017-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-05-06,531,,False,,,0
+TRN03017,hash_fragment,126db49483367c124fa8,Incomplete hash; cannot establish a full-hash match.,,,,,2025-05-06,531,,False,,,0
+TRN03017,ipv4,198.51.100.158,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-05-06,531,,False,,,0
+TRN03017,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-05-06,531,,False,,,0
+TRN03036,domain,node-3036-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-07-17,459,,False,,,0
+TRN03036,hash_fragment,2d2c15505913467b51c1,Incomplete hash; cannot establish a full-hash match.,,,,,2025-07-17,459,,False,,,0
+TRN03036,ipv4,198.51.100.177,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-07-17,459,,False,,,0
+TRN03036,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-07-17,459,,False,,,0
+TRN03037,domain,node-3037-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-11-27,326,,False,,,0
+TRN03037,ipv4,198.51.100.178,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-11-27,326,,False,,,0
+TRN03037,malware,DustRAT,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-11-27,326,,False,,,0
+TRN03037,threat_actor,Copper Dune,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-11-27,326,,False,,,0
+TRN03040,domain,node-3040-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-12-17,306,,False,,,0
+TRN03040,ipv4,198.51.100.181,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-12-17,306,,False,,,0
+TRN03045,domain,node-3045-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-12-26,297,,False,,,0
+TRN03045,hash_fragment,89e48012eff464fa7e09,Incomplete hash; cannot establish a full-hash match.,,,,,2025-12-26,297,,False,,,0
+TRN03045,ipv4,198.51.100.186,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-12-26,297,,False,,,0
+TRN03045,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-12-26,297,,False,,,0
+TRN03049,domain,node-3049-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-02-05,256,,False,,,0
+TRN03049,ipv4,198.51.100.190,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-02-05,256,,False,,,0
+TRN03049,malware,GridLock,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-02-05,256,,False,,,0
+TRN03049,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-02-05,256,,False,,,0
+TRN03050,domain,node-3050-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-08-05,75,,False,,,0
+TRN03050,ipv4,198.51.100.191,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-08-05,75,,False,,,0
+TRN03050,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-08-05,75,,False,,,0
+TRN03053,domain,node-3053-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-09-24,390,,False,,,0
+TRN03053,hash_fragment,091d56404d08fe60487b,Incomplete hash; cannot establish a full-hash match.,,,,,2025-09-24,390,,False,,,0
+TRN03053,ipv4,198.51.100.194,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-09-24,390,,False,,,0
+TRN03053,threat_actor,Night Heron,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-09-24,390,,False,,,0
+TRN03056,domain,node-3056-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-11-28,325,,False,,,0
+TRN03056,ipv4,198.51.100.197,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-11-28,325,,False,,,0
+TRN03056,threat_actor,Copper Dune,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-11-28,325,,False,,,0
+TRN03059,domain,node-3059-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-01-08,284,,False,,,0
+TRN03059,hash_fragment,3e661e0ab1a17ff0de62,Incomplete hash; cannot establish a full-hash match.,,,,,2026-01-08,284,,False,,,0
+TRN03059,ipv4,198.51.100.200,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-01-08,284,,False,,,0
+TRN03059,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-01-08,284,,False,,,0
+TRN03061,domain,node-3061-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-10-17,367,,False,,,0
+TRN03061,ipv4,198.51.100.202,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-10-17,367,,False,,,0
+TRN03061,malware,Sandstorm Loader,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-10-17,367,,False,,,0
+TRN03061,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-10-17,367,,False,,,0
+TRN03066,domain,node-3066-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-08-16,429,,False,,,0
+TRN03066,ipv4,198.51.100.207,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-08-16,429,,False,,,0
+TRN03066,malware,Sandstorm Loader,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-08-16,429,,False,,,0
+TRN03066,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-08-16,429,,False,,,0
+TRN03068,domain,node-3068-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-03-04,594,,False,,,0
+TRN03068,hash_fragment,56906f8a5e4b1938ff9e,Incomplete hash; cannot establish a full-hash match.,,,,,2025-03-04,594,,False,,,0
+TRN03068,ipv4,198.51.100.209,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-03-04,594,,False,,,0
+TRN03068,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-03-04,594,,False,,,0
+TRN03077,domain,node-3077-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-01-07,650,,False,,,0
+TRN03077,ipv4,198.51.100.218,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-01-07,650,,False,,,0
+TRN03077,malware,Sandstorm Loader,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-01-07,650,,False,,,0
+TRN03078,domain,node-3078-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-07-02,109,,False,,,0
+TRN03078,ipv4,198.51.100.219,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-07-02,109,,False,,,0
+TRN03078,malware,BreakerFox,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-07-02,109,,False,,,0
+TRN03084,domain,node-3084-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-06-22,484,,False,,,0
+TRN03084,ipv4,198.51.100.5,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-06-22,484,,False,,,0
+TRN03084,malware,GridLock,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-06-22,484,,False,,,0
+TRN03084,threat_actor,Night Heron,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-06-22,484,,False,,,0
+TRN03086,domain,node-3086-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-06-20,121,,False,,,0
+TRN03086,ipv4,198.51.100.7,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-06-20,121,,False,,,0
+TRN03086,malware,BreakerFox,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-06-20,121,,False,,,0
+TRN03089,domain,node-3089-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-12-15,308,,False,,,0
+TRN03089,ipv4,198.51.100.10,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-12-15,308,,False,,,0
+TRN03089,malware,Sandstorm Loader,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-12-15,308,,False,,,0
+TRN03092,domain,node-3092-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-04-25,177,,False,,,0
+TRN03092,ipv4,198.51.100.13,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-04-25,177,,False,,,0
+TRN03093,domain,node-3093-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-02-11,615,,False,,,0
+TRN03093,ipv4,198.51.100.14,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-02-11,615,,False,,,0
+TRN03093,malware,BreakerFox,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-02-11,615,,False,,,0
+TRN03093,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-02-11,615,,False,,,0
+TRN03096,domain,node-3096-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-06-30,476,,False,,,0
+TRN03096,ipv4,198.51.100.17,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-06-30,476,,False,,,0
+TRN03096,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-06-30,476,,False,,,0
+TRN03106,domain,node-3106-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-04-10,557,,False,,,0
+TRN03106,ipv4,198.51.100.27,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-04-10,557,,False,,,0
+TRN03107,domain,node-3107-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-08-09,436,,False,,,0
+TRN03107,ipv4,198.51.100.28,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-08-09,436,,False,,,0
+TRN03107,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-08-09,436,,False,,,0
+TRN03108,domain,node-3108-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-01-22,270,,False,,,0
+TRN03108,hash_fragment,8f17bdfae161367a38cc,Incomplete hash; cannot establish a full-hash match.,,,,,2026-01-22,270,,False,,,0
+TRN03108,ipv4,198.51.100.29,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-01-22,270,,False,,,0
+TRN03108,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-01-22,270,,False,,,0
+TRN03109,domain,node-3109-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-05-08,164,,False,,,0
+TRN03109,ipv4,198.51.100.30,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-05-08,164,,False,,,0
+TRN03109,malware,BreakerFox,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-05-08,164,,False,,,0
+TRN03115,domain,node-3115-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-05-27,510,,False,,,0
+TRN03115,hash_fragment,61703f58be10d33fade0,Incomplete hash; cannot establish a full-hash match.,,,,,2025-05-27,510,,False,,,0
+TRN03115,ipv4,198.51.100.36,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-05-27,510,,False,,,0
+TRN03115,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-05-27,510,,False,,,0
+TRN03122,domain,node-3122-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-09-15,399,,False,,,0
+TRN03122,ipv4,198.51.100.43,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-09-15,399,,False,,,0
+TRN03133,domain,node-3133-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-08-03,77,,False,,,0
+TRN03133,ipv4,198.51.100.54,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-08-03,77,,False,,,0
+TRN03133,threat_actor,Night Heron,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-08-03,77,,False,,,0
+TRN03139,domain,node-3139-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-03-24,209,,False,,,0
+TRN03139,ipv4,198.51.100.60,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-03-24,209,,False,,,0
+TRN03139,malware,DustRAT,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-03-24,209,,False,,,0
+TRN03139,threat_actor,Night Heron,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-03-24,209,,False,,,0
+TRN03140,domain,node-3140-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-06-23,118,,False,,,0
+TRN03140,ipv4,198.51.100.61,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-06-23,118,,False,,,0
+TRN03140,malware,GridLock,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-06-23,118,,False,,,0
+TRN03140,threat_actor,Night Heron,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-06-23,118,,False,,,0
+TRN03142,domain,node-3142-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-10-05,379,,False,,,0
+TRN03142,hash_fragment,25b737e81069c7a6abf6,Incomplete hash; cannot establish a full-hash match.,,,,,2025-10-05,379,,False,,,0
+TRN03142,ipv4,198.51.100.63,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-10-05,379,,False,,,0
+TRN03142,threat_actor,Night Heron,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-10-05,379,,False,,,0
+TRN03143,domain,node-3143-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-04-25,542,,False,,,0
+TRN03143,ipv4,198.51.100.64,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-04-25,542,,False,,,0
+TRN03143,malware,DustRAT,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-04-25,542,,False,,,0
+TRN03143,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-04-25,542,,False,,,0
+TRN03153,domain,node-3153-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-03-28,570,,False,,,0
+TRN03153,ipv4,198.51.100.74,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-03-28,570,,False,,,0
+TRN03153,malware,DustRAT,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-03-28,570,,False,,,0
+TRN03154,domain,node-3154-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-08-09,71,,False,,,0
+TRN03154,ipv4,198.51.100.75,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-08-09,71,,False,,,0
+TRN03154,malware,Sandstorm Loader,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-08-09,71,,False,,,0
+TRN03154,threat_actor,Copper Dune,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-08-09,71,,False,,,0
+TRN03158,domain,node-3158-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-08-08,437,,False,,,0
+TRN03158,hash_fragment,dd9aa8a4df442c5fc515,Incomplete hash; cannot establish a full-hash match.,,,,,2025-08-08,437,,False,,,0
+TRN03158,ipv4,198.51.100.79,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-08-08,437,,False,,,0
+TRN03158,threat_actor,Night Heron,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-08-08,437,,False,,,0
+TRN03159,domain,node-3159-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-11-13,340,,False,,,0
+TRN03159,hash_fragment,6ea2fc2819ccf4e67e27,Incomplete hash; cannot establish a full-hash match.,,,,,2025-11-13,340,,False,,,0
+TRN03159,ipv4,198.51.100.80,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2025-11-13,340,,False,,,0
+TRN03159,threat_actor,Night Heron,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2025-11-13,340,,False,,,0
+TRN03160,domain,node-3160-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-08-31,49,,False,,,0
+TRN03160,hash_fragment,ac09a5a677e070c712d1,Incomplete hash; cannot establish a full-hash match.,,,,,2026-08-31,49,,False,,,0
+TRN03160,ipv4,198.51.100.81,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-08-31,49,,False,,,0
+TRN03160,threat_actor,Red Kudu,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-08-31,49,,False,,,0
+TRN03163,domain,node-3163-sync.example,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-02-22,239,,False,,,0
+TRN03163,ipv4,198.51.100.84,No exact match in the supplied feed; this does not establish whether the entity is benign.,,,,,2026-02-22,239,,False,,,0
+TRN03163,malware,Sandstorm Loader,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-02-22,239,,False,,,0
+RPT9001,domain,maintenance-check.example,Feed match IOC9005; confidence=Medium; context=Credential-harvesting domain targeting energy vendors. No exact match in the event indicator field; this does not prove absence from all telemetry.,IOC9005,Medium,Credential-harvesting domain targeting energy vendors,2026-10-14,2026-10-14,5,5.0,False,,,0
+RPT9001,ipv4,203.0.113.77,Feed match IOC9001; confidence=High; context=Kalahari Jackal access infrastructure. 4 exact matches in the event indicator field. Review actions and context before concluding compromise. Publication precedes feed first_seen; investigate the date discrepancy.,IOC9001,High,Kalahari Jackal access infrastructure,2026-10-16,2026-10-14,5,3.0,True,EVT01574;EVT01575;EVT01576;EVT01579,ALLOW;DENY,4
+RPT9001,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-10-14,5,,False,,,0
+RPT9002,domain,desert-sync.example,Feed match IOC9002; confidence=High; context=Sandstorm Loader command-and-control. 2 exact matches in the event indicator field. Review actions and context before concluding compromise. Publication precedes feed first_seen; investigate the date discrepancy.,IOC9002,High,Sandstorm Loader command-and-control,2026-10-16,2026-10-15,4,3.0,True,EVT01578;EVT01587,ALLOW,2
+RPT9002,ipv4,198.51.100.44,Feed match IOC9003; confidence=High; context=Sandstorm Loader command-and-control. 1 exact matches in the event indicator field. Review actions and context before concluding compromise. Publication precedes feed first_seen; investigate the date discrepancy.,IOC9003,High,Sandstorm Loader command-and-control,2026-10-16,2026-10-15,4,3.0,True,EVT01588,BLOCK,1
+RPT9002,malware,Sandstorm Loader,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-10-15,4,,False,,,0
+RPT9004,malware,Sandstorm Loader,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-10-16,3,,False,,,0
+RPT9004,sha256,8e50b5f71c8efa22abe51646264f41367451d4acc42134c8c2b787c3190bc393,Feed match IOC9004; confidence=High; context=Sandstorm Loader executable. No exact match in the event indicator field; this does not prove absence from all telemetry.,IOC9004,High,Sandstorm Loader executable,2026-10-16,2026-10-16,3,3.0,False,,,0
+RPT9004,threat_actor,Kalahari Jackal,Named entity mentioned in a report; not proof of attribution or infection.,,,,,2026-10-16,3,,False,,,0
+RPT9005,domain,maintenance-check.example,Feed match IOC9005; confidence=Medium; context=Credential-harvesting domain targeting energy vendors. No exact match in the event indicator field; this does not prove absence from all telemetry.,IOC9005,Medium,Credential-harvesting domain targeting energy vendors,2026-10-14,2026-10-17,2,5.0,False,,,0
